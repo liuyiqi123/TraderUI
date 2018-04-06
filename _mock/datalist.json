@@ -1,0 +1,33 @@
+{
+  "data": [{
+      "name": "NYSS",
+      "gid": "000232",
+      "increPer": "9.91",
+      "increase": "1.99",
+      "todayStartPri": "8.26",
+      "yestodEndPri": "8.26",
+      "nowPri": "8.37",
+      "todayMax": "8.55",
+      "todayMin": "8.25",
+      "competitivePri": "8.37",
+      "reservePri": "8.38",
+      "traNumber": "34501453",
+      "traAmount": "290889560"
+    },
+    {
+      "name": "AYZZ",
+      "gid": "020097",
+      "increPer": "-3.91",
+      "increase": "-0.99",
+      "todayStartPri": "18.26",
+      "yestodEndPri": "18.46",
+      "nowPri": "18.37",
+      "todayMax": "18.55",
+      "todayMin": "18.25",
+      "competitivePri": "18.37",
+      "reservePri": "18.38",
+      "traNumber": "134501453",
+      "traAmount": "1290889560"
+    }
+  ]
+}

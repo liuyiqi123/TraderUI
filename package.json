@@ -1,0 +1,34 @@
+{
+  "name": "traderui",
+  "version": "1.0.0",
+  "description": "HTML, CSS, and JavaScript framework for developing responsive, mobile-first Finance trade projects on the web.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyiqi123/TraderUI.git"
+  },
+  "keywords": [
+    "UI",
+    "framework",
+    "Finance",
+    "trade"
+  ],
+  "author": "Vicky Lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyiqi123/TraderUI/issues"
+  },
+  "homepage": "https://github.com/liuyiqi123/TraderUI#readme",
+  "devDependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
